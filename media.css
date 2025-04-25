@@ -13,6 +13,10 @@
     .n1{
         font-size: 20px;
     }
+
+    .nm{
+      margin-bottom: 55px;
+    }
   
       .name-ll{
           display: none;
@@ -40,9 +44,9 @@
       margin: 10px;
     }
     
-    .brand-name{
-        font-size: 26px;
-    }
+   .brand-name{
+    font-size: 40px;
+   }
   
     
   }
