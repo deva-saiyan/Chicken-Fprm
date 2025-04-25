@@ -1,0 +1,100 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    scroll-behavior: smooth;
+    cursor: pointer;
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+   
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+
+/* Navbar-------------------------------------*/
+
+.nav-box{
+    background-color: orange;
+    border-radius: 20px;
+    box-shadow: 2px 2px  gold ;
+    
+
+}
+
+.logo{
+    width: 40px;
+    height: 40px;
+}
+
+.brand-name{
+    color: rgb(173, 239, 21);
+}
+
+.nav-name{
+    color: whitesmoke;
+}
+
+.fa{
+    margin-right:5px;
+}
+
+.nav-name:hover{
+    color: rgb(204, 236, 23);
+
+    .fa{
+        color: #e6006d;
+    }
+}
+
+
+/* Name ----------------------- */
+
+.name{
+    
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+
+.name-s{
+    display: none;
+}
+
+.n1{
+    color: blue;
+    text-shadow: 2px  1px gold;
+    margin: 10px;
+}
+
+
+
+/* video cont ----------------------------- */
+
+.row{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.video{
+    margin: 10px;
+}
+
+
+/* social-media ----------------------------------- */
+.media{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  
+  }
+  .icon{
+    width: 50px;
+    height: 50px;
+   
+  }
